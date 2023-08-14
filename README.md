@@ -1,3 +1,5 @@
+<img src="https://oriondesign.art.br/wp-content/uploads/2023/08/ss.png">
+
 # Auto Instalador da EvolutionAPI + Typebot
 
 Este auto instalador foi testado usando uma VPS vazia da Contabo (4vCores + 8Gb Ram) com **Ubunto 20.04**
