@@ -49,7 +49,7 @@ Antes de instalar, é de extrema importancia que você crie 3 registros no DNS, 
 
 1- Copie o seguinte comando e cole em seu terminal:
 ```
-sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInstaladorTypebot.git && cd AutoInstaladorTypebot && chmod +x typebot.sh && ./typebot.sh
+sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInstaladorEvolutionETypebot.git && cd AutoInstaladorTypebot && chmod +x evolution_e_typebot.sh && ./evolution_e_typebot.sh
 ```
 
 Ao executar esse código, ele pedirá para você fornecer as seguintes informações:
