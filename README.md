@@ -1,4 +1,4 @@
-# AutoInstaladorEvolutionETypebot
+# Auto Instalador da EvolutionAPI + Typebot
 
 Este auto instalador foi testado usando uma VPS vazia da Contabo (4vCores + 8Gb Ram) com **Ubunto 20.04**
 Nessa versão você pode estar escolhendo as portas na instalação o que possibilita a integração do Typebot e Evolution API com qualquer outra aplicação.
