@@ -47,9 +47,15 @@ Antes de instalar, é de extrema importancia que você crie 3 registros no DNS, 
 
 <hr/>
 
-## 📀 Instalando Typebot
+## 📀 Instalando Typebot 
+### Copie o seguinte comando e cole em seu terminal
 
-1- Copie o seguinte comando e cole em seu terminal:
+Normal
+```
+sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInstaladorEvolutionETypebot.git && cd AutoInstaladorEvolutionETypebot && chmod +x evolution_e_typebot.sh && ./evolution_e_typebot.sh
+```
+ou
+Developer
 ```
 sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInstaladorEvolutionETypebot.git && cd AutoInstaladorEvolutionETypebot && chmod +x evolution_e_typebot.sh && ./evolution_e_typebot.sh
 ```
