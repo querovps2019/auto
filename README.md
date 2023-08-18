@@ -57,7 +57,7 @@ sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInst
 ou
 Developer
 ```
-sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInstaladorEvolutionETypebot.git && cd AutoInstaladorEvolutionETypebot && chmod +x evolution_e_typebot.sh && ./evolution_e_typebot.sh
+sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInstaladorEvolutionETypebot.git && cd AutoInstaladorEvolutionETypebot && chmod +x evolution_e_typebot_dev.sh && ./evolution_e_typebot_dev.sh
 ```
 
 Ao executar esse código, ele pedirá para você fornecer as seguintes informações:
