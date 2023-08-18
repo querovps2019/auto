@@ -122,7 +122,7 @@ cd
 
 #######################################################
 
-echo "Clonando git e trocando para develop"
+echo "Clonando git"
 
 git clone https://github.com/EvolutionAPI/evolution-api.git
 
