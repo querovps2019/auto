@@ -82,9 +82,9 @@ sudo apt upgrade -y
 
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash - && apt-get install -y nodejs
 
-npm install -g npm@latest
+npm install -g npm@
 
-npm install -g pm2@latest
+npm install -g pm2@
 
 apt-get install -y git zip unzip nload snapd curl wget sudo
 
@@ -362,7 +362,7 @@ services:
   typebot-builder:
     ports:
       - $portabuilder:3000
-    image: baptistearno/typebot-builder:latest
+    image: baptistearno/typebot-builder:main
     restart: always
     depends_on:
       - typebot-db
@@ -390,7 +390,7 @@ services:
   typebot-viewer:
     ports:
       - $portaviewer:3000
-    image: baptistearno/typebot-viewer:latest
+    image: baptistearno/typebot-viewer:main
     restart: always
     environment:
       - DATABASE_URL=postgresql://postgres:typebot@typebot-db:5432/typebot
